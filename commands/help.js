@@ -17,7 +17,7 @@ module.exports = {
         "★****" +
         client.config.prefix +
         cmdinfo.name +
-        "|" +
+        "  |" +
         cmdinfo.usage +
         " :\n" +
         cmdinfo.description +
